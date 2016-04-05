@@ -11,5 +11,7 @@ We are going to use the Unity game engine to create a terrain. We'll then create
 - Add a character so we can move around
 - implement AI for pathfinding
 
-
+## Files
+- Here's a Unity file what we will be building:
+- Here's a step-by-step guide:
 
